@@ -1,5 +1,3 @@
-// StudentHub - script.js
-// Beginner-level JS: highlights the current page's link in the navbar
 
 window.onload = function () {
   var links = document.querySelectorAll("nav ul li a");
